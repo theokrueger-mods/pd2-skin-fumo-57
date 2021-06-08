@@ -1,0 +1,9 @@
+<table>
+    <AddFiles directory="assets">
+        <texture path="guis/dlcs/FUMO_57/weapon_skins/FUMO_57" />
+    </AddFiles>
+
+    <Localization default="english.txt" directory="loc"/>
+
+    <WeaponSkin id="FUMO_57" weapon_id="lemming" name="bm_wskn_FUMO_57" desc="bm_wskn_FUMO_57_desc" rarity="legendary" skin_folder="assets/skins/FUMO_57" />
+</table>

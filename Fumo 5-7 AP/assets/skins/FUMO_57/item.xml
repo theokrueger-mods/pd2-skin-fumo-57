@@ -1,0 +1,149 @@
+<ugcitem>
+	<param key="type" value="weapon_skin"/>
+	<node name="data">
+		<param key="name_id" value="bm_wskn_lemming_fumo_5-7_ap"/>
+		<node name="parts">
+			<node name="wpn_fps_upg_o_rms">
+				<node name="85ec9ca927b4aad2">
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_o_rikt">
+				<node name="4b1079dc98b2ac3f">
+					<param key="pattern_name" value="text-pattern.tga"/>
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_body">
+				<node name="c3ba24da2eab3277">
+					<param key="uv_scale" value="Vector3(12.501, 12.501, 0)"/>
+					<param key="sticker_name" value="grip.tga"/>
+					<param key="pattern_gradient_name" value="text-gradient.tga"/>
+					<param key="pattern_pos" value="Vector3(1.17, 0.588, 0)"/>
+					<param key="uv_offset_rot" value="Vector3(-0.223, 0.779, 6.118)"/>
+					<param key="pattern_name" value="text-pattern.tga"/>
+					<param key="pattern_tweak" value="Vector3(0.777, 0, 1)"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_medium_slim">
+				<node name="d06cdaa70857c393">
+					<param key="base_gradient_name" value="nocolour.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_mag_release">
+				<node name="c3ba24da2eab3277">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_medium_gem">
+				<node name="d06cdaa70857c393">
+					<param key="uv_scale" value="Vector3(5.779, 5.779, 1)"/>
+					<param key="uv_offset_rot" value="Vector3(0.083, 0.855, 0)"/>
+					<param key="sticker_name" value="suppressorsticker.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_jungle">
+				<node name="bfbacc1d6b6fa58d">
+					<param key="uv_offset_rot" value="Vector3(-0.051, 0.893, 0)"/>
+					<param key="sticker_name" value="suppressorsticker.tga"/>
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+					<param key="uv_scale" value="Vector3(8.591, 8.591, 0)"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_b_nitride">
+				<node name="4e40c100deb9d35a">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_fl_pis_tlr1">
+				<node name="886a0953f469491e">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_m_standard">
+				<node name="5a59c88e60c2af0b">
+					<param key="uv_offset_rot" value="Vector3(0.264, 1.008, 6.283)"/>
+					<param key="base_gradient_name" value="white.tga"/>
+					<param key="uv_scale" value="Vector3(13.264, 13.264, 0)"/>
+					<param key="sticker_name" value="magbottom.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_sl_standard">
+				<node name="a278ebdff23743bc">
+					<param key="sticker_name" value="slidesticker.tga"/>
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+					<param key="uv_scale" value="Vector3(3.3, 3.3, 0)"/>
+					<param key="pattern_pos" value="Vector3(0.006, -0.032, 0)"/>
+					<param key="uv_offset_rot" value="Vector3(0.216, 0.836, 0)"/>
+					<param key="pattern_name" value="slide-flower-pattern.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_fl_pis_x400v">
+				<node name="002af6eb9050b6dc">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_large_kac">
+				<node name="d06cdaa70857c393">
+					<param key="uv_scale" value="Vector3(3.204, 3.204, 0.005)"/>
+					<param key="uv_offset_rot" value="Vector3(-0.003, 0.874, 0)"/>
+					<param key="sticker_name" value="suppressorsticker.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_fl_pis_m3x">
+				<node name="0e9cc6cb29d35c92">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_fl_pis_crimson">
+				<node name="f13820bc7df3b07a">
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_fl_pis_laser">
+				<node name="4806cfaee28ccc45">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_large">
+				<node name="74f7d72f9474bf1b">
+					<param key="uv_scale" value="Vector3(6.255, 6.255, 0)"/>
+					<param key="sticker_name" value="suppressorsticker.tga"/>
+					<param key="uv_offset_rot" value="Vector3(0.006, 0.912, 0)"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_m_ext">
+				<node name="5a59c88e60c2af0b">
+					<param key="uv_scale" value="Vector3(9.783, 9.783, 0)"/>
+					<param key="uv_offset_rot" value="Vector3(0.264, 0.998, 0)"/>
+					<param key="sticker_name" value="magbottom.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_o_rmr">
+				<node name="9a33af1f56b83b07">
+					<param key="base_gradient_name" value="basecoloursreciever.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_pis_lemming_b_standard">
+				<node name="0c2a90bd61b7c6f9">
+					<param key="base_gradient_name" value="grey.tga"/>
+				</node>
+			</node>
+			<node name="wpn_fps_upg_ns_pis_ipsccomp">
+				<node name="9098f2a74f94dc04">
+					<param key="uv_scale" value="Vector3(3.347, 3.347, 0)"/>
+					<param key="uv_offset_rot" value="Vector3(-0.089, 0.769, 0)"/>
+					<param key="sticker_name" value="suppressorsticker.tga"/>
+				</node>
+			</node>
+		</node>
+		<param key="weapon_id" value="lemming"/>
+		<param key="pattern_gradient_name" value="flower-gradient.tga"/>
+		<param key="base_gradient_name" value="basecolours.tga"/>
+		<param key="id" value="lemming_fumo_5-7_ap"/>
+		<param key="reserve_quality" value="true"/>
+		<param key="pattern_name" value="flower-pattern.tga"/>
+	</node>
+	<param key="name" value="FUMO 5-7 AP"/>
+	<param key="timestamp" value="2021101001627"/>
+</ugcitem>
